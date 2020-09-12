@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-3日志处理-每一类错误写到不同文件.py", line 24, in <module>
+    raise KeyError('key错误')
+KeyError: 'key错误'

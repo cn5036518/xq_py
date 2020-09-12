@@ -1,0 +1,7 @@
+2019-04-05 16:14:55,820 || logs33.py || [line:82]    || ERROR || 打印日志错误-ERROR信息
+2019-04-05 16:15:11,309 || logs33.py || [lineno:82]    || ERROR || 打印日志错误-ERROR信息
+2019-04-05 16:15:22,878 || logs33.py || [line:82]    || ERROR || 打印日志错误-ERROR信息
+2019-04-05 16:18:37,484 || logs33.py || [line:85] || ERROR || 打印日志错误-ERROR信息
+2019-04-05 16:19:27,109 || logs33.py || [line:85] || ERROR || 打印日志错误-ERROR信息
+2019-04-05 16:20:19,093 || D:/xq_py/a1接口层框架设计1-0326/src34/commons/logs33.py || logs33.py || [line:85] || ERROR || 打印日志错误-ERROR信息
+2019-04-05 16:20:37,841 || logs33.py || [line:85] || ERROR || 打印日志错误-ERROR信息

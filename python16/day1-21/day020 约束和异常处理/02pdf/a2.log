@@ -1,0 +1,15 @@
+2020-06-20 10:59:51-root-ERROR-06-2日志处理-应用-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-2日志处理-应用.py", line 63, in <module>
+    raise FileNotFoundError('文件不存在')
+FileNotFoundError: 文件不存在
+
+2020-06-20 10:59:51-root-ERROR-06-2日志处理-应用-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-2日志处理-应用.py", line 65, in <module>
+    raise NameError('名字错误')
+NameError: 名字错误
+
+2020-06-20 10:59:51-root-ERROR-06-2日志处理-应用-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-2日志处理-应用.py", line 67, in <module>
+    raise Custom_error('自定义异常')
+Custom_error: 自定义异常
+

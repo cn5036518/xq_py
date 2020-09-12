@@ -1,0 +1,15 @@
+2020-06-20 12:52:39,450-系统1-ERROR-06-8日志处理-2个系统分开记录日志-函数-应用3-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-8日志处理-2个系统分开记录日志-函数-应用3.py", line 37, in <module>
+    raise FileNotFoundError('文件不存在')
+FileNotFoundError: 文件不存在
+
+2020-06-20 12:52:39,450-系统1-ERROR-06-8日志处理-2个系统分开记录日志-函数-应用3-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-8日志处理-2个系统分开记录日志-函数-应用3.py", line 39, in <module>
+    raise NameError('名字错误')
+NameError: 名字错误
+
+2020-06-20 12:52:39,451-系统1-ERROR-06-8日志处理-2个系统分开记录日志-函数-应用3-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-8日志处理-2个系统分开记录日志-函数-应用3.py", line 41, in <module>
+    raise KeyError('key错误')
+KeyError: 'key错误'
+

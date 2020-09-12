@@ -1,0 +1,15 @@
+2020-06-16 08:59:07-root-ERROR-07_2日志处理2-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/07_2日志处理2.py", line 37, in <module>
+    raise FileNotFoundError('文件没有找到哈')
+FileNotFoundError: 文件没有找到哈
+
+2020-06-16 08:59:07-root-ERROR-07_2日志处理2-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/07_2日志处理2.py", line 39, in <module>
+    raise FileExistsError()
+FileExistsError
+
+2020-06-16 08:59:07-root-ERROR-07_2日志处理2-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/07_2日志处理2.py", line 41, in <module>
+    raise StopIteration()
+StopIteration
+

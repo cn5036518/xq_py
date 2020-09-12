@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/04自定义异常_堆栈信息输出到文件.py", line 47, in <module>
+    bashroom_men(p2)
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/04自定义异常_堆栈信息输出到文件.py", line 38, in bashroom_men
+    raise Gender_error('这里是男澡堂哈，女生不能入内')
+Gender_error: 这里是男澡堂哈，女生不能入内

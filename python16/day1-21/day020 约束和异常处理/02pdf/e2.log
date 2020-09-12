@@ -1,0 +1,18 @@
+2020-06-20 12:34:35,172-系统2-ERROR-06-7日志处理-2个系统分开记录日志-函数-应用-我是 系统2
+2020-06-20 12:34:35,172-系统2-ERROR-06-7日志处理-2个系统分开记录日志-函数-应用-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-7日志处理-2个系统分开记录日志-函数-应用.py", line 30, in multi_system_log
+    raise FileNotFoundError('文件不存在')
+FileNotFoundError: 文件不存在
+
+2020-06-20 12:34:35,173-系统2-ERROR-06-7日志处理-2个系统分开记录日志-函数-应用-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-7日志处理-2个系统分开记录日志-函数-应用.py", line 32, in multi_system_log
+    raise NameError('名字错误')
+NameError: 名字错误
+
+2020-06-20 12:34:35,174-系统2-ERROR-06-7日志处理-2个系统分开记录日志-函数-应用-Traceback (most recent call last):
+  File "E:/xq_py/全栈16/day020 约束和异常处理/02pdf/06-7日志处理-2个系统分开记录日志-函数-应用.py", line 34, in multi_system_log
+    raise KeyError('key错误')
+KeyError: 'key错误'
+
+2020-06-20 12:36:38,117-系统2-ERROR-06-5日志处理-2个系统分开记录日志-函数-我是 系统2
+2020-06-20 12:39:50,313-系统2-ERROR-06-5日志处理-2个系统分开记录日志-函数-我是 系统2
